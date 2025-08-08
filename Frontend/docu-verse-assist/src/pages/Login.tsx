@@ -88,9 +88,9 @@ const Login = () => {
             </div>
             <div>
               <h1 className="text-2xl font-bold bg-gradient-to-r from-primary to-primary/80 bg-clip-text text-transparent">
-                RamCorp AI
+                Collabrium
               </h1>
-              <p className="text-sm text-muted-foreground">Document Intelligence Platform</p>
+              <p className="text-sm text-muted-foreground">Accelerating partnerships, End-to-end.</p>
             </div>
           </div>
         </div>

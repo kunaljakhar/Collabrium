@@ -84,7 +84,7 @@ export function AppSidebar() {
           </div>
           {!collapsed && (
             <div>
-              <h2 className="font-semibold text-foreground">DocuVerse</h2>
+              <h2 className="font-semibold text-foreground">Collabrium</h2>
               <p className="text-xs text-muted-foreground">AI Workflow</p>
             </div>
           )}
